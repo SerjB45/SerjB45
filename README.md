@@ -66,7 +66,6 @@ Backend-разработчик с инженерным образованием(
 **PET-проекты**
 | Проект | Описание | Стек |
 |--------|----------|------|
-<!-- | **[]()** |  |  | -->
 | **[activity_timer](https://github.com/SerjB45/activity_timer)** | Pomodoro-таймер для контроля рабочих сессий и отдыха. | Tkinter, Unittest, AI-инструменты(Copilot, GigaCode) |
 | **[task-calculator](https://github.com/SerjB45/task-calculator/tree/main/task_calculator)** | Сервис для расчета и фиксации трудозатрат на разработку ПО |  |
 | **[AlgoritmsPython](https://github.com/SerjB45/AlgoritmsPython)** | Реализация популярных алгоритмов на Python |  |
@@ -75,7 +74,6 @@ Backend-разработчик с инженерным образованием(
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-<!-- | **[]()** |  |  | -->
 | **[scrapy_parser](https://github.com/SerjB45/scrapy_parser_pep)** | Парсер документов PEP на базе фреймворка Scrapy | Scrapy |
 | **[bs4_parser](https://github.com/SerjB45/bs4_parser_pep)** | Парсер документов PEP на базе фреймворка BeautifulSoup4 | BeautifulSoup4 |
 | **[async-yacut](https://github.com/SerjB45/async-yacut)** | Сервис укорачивания ссылок и загрузки файлов на Яндекс Диск | Flask, SQLAlchemy, aiohttp |
