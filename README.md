@@ -68,7 +68,7 @@ Backend-разработчик с инженерным образованием(
 |--------|----------|------|
 | **[activity_timer](https://github.com/SerjB45/activity_timer)** | Pomodoro-таймер для контроля рабочих сессий и отдыха. | Tkinter, Unittest, AI-инструменты(Copilot, GigaCode) |
 | **[task-calculator](https://github.com/SerjB45/task-calculator)** | Сервис для расчета и фиксации трудозатрат на разработку ПО |  |
-| **[AlgoritmsPython](https://github.com/SerjB45/AlgoritmsPython)** | Реализация популярных алгоритмов на Python |  |
+<!-- | **[AlgoritmsPython](https://github.com/SerjB45/AlgoritmsPython)** | Реализация популярных алгоритмов на Python |  | -->
 
 **Учебные проекты**
 
